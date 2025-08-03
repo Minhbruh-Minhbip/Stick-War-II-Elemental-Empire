@@ -5,7 +5,7 @@ This will be where I post all the versions of Stick War II: Elemental Empire sin
 
 ## How to download
 
-Choose your version you want to download: [Click Here](https://github.com/Minhbruh-Minhbip/Stick-War-II-Elemental-Empire/releases). Next, download the installer and open it. Follow the steps in the installer. \n Your game will be install and enjoy.
+Choose your version you want to download: [Click Here](https://github.com/Minhbruh-Minhbip/Stick-War-II-Elemental-Empire/releases). Next, download the installer and open it. Follow the steps in the installer. Your game will be install and enjoy.
 
 ## Report bug
 
